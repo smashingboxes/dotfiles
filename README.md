@@ -1,6 +1,6 @@
 #Smash your ENV
 
-##Get your gitconfigs right playa
+##gitconfigs
 
 ```
 wget https://raw.githubusercontent.com/smashingboxes/dotfiles/master/gitconfig -O file
@@ -18,40 +18,41 @@ brew install wget
 Friends don't let friends use bash. Here are some options.
 
 ###zsh
-**[zsh](http://www.zsh.org/)**
+[zsh](https://github.com/smashingboxes/dotfiles/tree/master/shell/zsh)
 
-```
-brew install zsh
-```
-
-**PIMP IT!**
-
-and up your dev game 2000%
-
-**[Prezto](https://github.com/sorin-ionescu/prezto)**
-
-**[oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)**
+(needs a pr)
 
 ###fish
+[fish](https://github.com/smashingboxes/dotfiles/tree/master/shell/fish)
+
 if your want to be and 100% suspender's wearing, accordian playing, hipster :eyeglasses:
 
-**[fish](http://fishshell.com/)**
-
-```
-brew install fish
-```
+(needs a pr)
 
 ##Tmux
+[configs](https://github.com/smashingboxes/dotfiles/tree/master/tmux)
+
 One terminal window to rule them all! And in the darkness **bind them**
 
-(need a pr)
+(needs a pr)
 
 ##Text Editors
 ###ViM
+[vim](https://github.com/smashingboxes/dotfiles/tree/master/text_editor/vim)
+
 (needs a pr)
 
 ###Atom
+[atom](https://github.com/smashingboxes/dotfiles/tree/master/text_editor/atom)
+
 (needs a pr)
 
 ###SublimeText
+[sub](https://github.com/smashingboxes/dotfiles/tree/master/text_editor/subl)
+
+(needs a pr)
+
+###NeoVim
+[neovim](https://github.com/smashingboxes/dotfiles/tree/master/text_editor/neovim)
+
 (needs a pr)

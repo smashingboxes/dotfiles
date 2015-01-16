@@ -1,2 +1,6 @@
 #fish
-[fishshell](http://fishshell.com/)
+**[fish](http://fishshell.com/)**
+
+```
+brew install fish
+```
