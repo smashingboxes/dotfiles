@@ -23,14 +23,12 @@ Friends don't let friends use bash. Here are some options.
 
 ###fish
 [fish](https://github.com/smashingboxes/dotfiles/tree/master/shell/fish)  
-if your want to be and 100% suspender's wearing, accordian playing, hipster :eyeglasses:
-
+if your want to be and 100% suspender's wearing, accordian playing, hipster :eyeglasses:  
 (needs a pr)
 
 ##Tmux
 [tmux](https://github.com/smashingboxes/dotfiles/tree/master/tmux)  
-One terminal window to rule them all! And in the darkness **bind them**
-
+One terminal window to rule them all! And in the darkness **bind them**  
 (needs a pr)
 
 ##Text Editors
