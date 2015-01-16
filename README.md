@@ -1,18 +1,7 @@
 #Smash your ENV
 
-##gitconfigs
-
-```
-wget https://raw.githubusercontent.com/smashingboxes/dotfiles/master/gitconfig -O file
-```
-
-**note**
-
-Add an inch to your neckbeard and install wget
-
-```
-brew install wget
-```
+##git
+[git](https://github.com/smashingboxes/dotfiles/tree/master/git/gitconfig)
 
 ##Pimp your shell
 Friends don't let friends use bash. Here are some options.
