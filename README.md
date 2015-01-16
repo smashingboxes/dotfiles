@@ -40,3 +40,18 @@ if your want to be and 100% suspender's wearing, accordian playing, hipster :eye
 ```
 brew install fish
 ```
+
+##Tmux
+One terminal window to rule them all! And in the darkness **bind them**
+
+(need a pr)
+
+##Text Editors
+###ViM
+(needs a pr)
+
+###Atom
+(needs a pr)
+
+###SublimeText
+(needs a pr)
