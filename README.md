@@ -24,7 +24,8 @@ Friends don't let friends use bash. Here are some options.
 brew install zsh
 ```
 
-####PIMP IT!
+**PIMP IT!**
+
 and up your dev game 2000%
 
 **[Prezto](https://github.com/sorin-ionescu/prezto)**
