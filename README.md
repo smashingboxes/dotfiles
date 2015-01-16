@@ -18,7 +18,7 @@ brew install wget
 Friends don't let friends use bash. Here are some options.
 
 ###zsh
-[zsh](http://www.zsh.org/)
+**[zsh](http://www.zsh.org/)**
 
 ```
 brew install zsh
