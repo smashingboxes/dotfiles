@@ -28,7 +28,7 @@ if your want to be and 100% suspender's wearing, accordian playing, hipster :eye
 
 ##Tmux
 [tmux](https://github.com/smashingboxes/dotfiles/tree/master/tmux)  
-One terminal window to rule them all! And in the darkness **bind them**  
+One terminal window to rule them all! And in the darkness **bind them** :ring:  
 (needs a pr)
 
 ##Text Editors
