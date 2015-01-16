@@ -1,7 +1,7 @@
 #Smash your ENV
 
 ##git
-[git](https://github.com/smashingboxes/dotfiles/tree/master/git/gitconfig)
+[git](https://github.com/smashingboxes/dotfiles/tree/master/git)
 
 ##Pimp your shell
 Friends don't let friends use bash. Here are some options.
